@@ -1,0 +1,164 @@
+{
+  "product": [
+    {
+      "image": "../img/starwars/produto-starwars-1.svg",
+      "nome": "Copo Stormtrooper",
+      "preco": "60,00",
+      "section": "Star Wars",
+      "id": "1",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/starwars/produto-starwars-2.svg",
+      "nome": "Lego Darth Vader",
+      "preco": "60,00",
+      "section": "Star Wars",
+      "id": "2",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/starwars/produto-starwars-3.svg",
+      "nome": "Boneco Yoda",
+      "preco": "60,00",
+      "section": "Star Wars",
+      "id": "3",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/starwars/produto-starwars-4.svg",
+      "nome": "Boneco Stormtrooper",
+      "preco": "60,00",
+      "section": "Star Wars",
+      "id": "4",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/starwars/produto-starwars-5.svg",
+      "nome": "Boneco Baby Yoda",
+      "preco": "60,00",
+      "section": "Star Wars",
+      "id": "5",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/starwars/produto-starwars-6.svg",
+      "nome": "Boneco Kylo Ren",
+      "preco": "60,00",
+      "section": "Star Wars",
+      "id": "6",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/consoles/produtos-consoles-1.svg",
+      "nome": "Controle Xbox One S",
+      "preco": "60,00",
+      "section": "Consoles",
+      "id": "7",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/consoles/produtos-consoles-2.svg",
+      "nome": "Playstation 5",
+      "preco": "60,00",
+      "section": "Consoles",
+      "id": "8",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/consoles/produtos-consoles-3.svg",
+      "nome": "Super Nintendo Clássico",
+      "preco": "60,00",
+      "section": "Consoles",
+      "id": "9",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/consoles/produtos-consoles-4.svg",
+      "nome": "Nintendo Switch",
+      "preco": "60,00",
+      "section": "Consoles",
+      "id": "10",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/consoles/produtos-consoles-5.svg",
+      "nome": "Xbox One X",
+      "preco": "60,00",
+      "section": "Consoles",
+      "id": "11",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/consoles/produtos-consoles-6.svg",
+      "nome": "Nintendo Portátil",
+      "preco": "60,00",
+      "section": "Consoles",
+      "id": "12",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/diversos/produtos-diversos-1.svg",
+      "nome": "Camisa Atari",
+      "preco": "60,00",
+      "section": "Diversos",
+      "id": "13",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/diversos/produtos-diversos-2.svg",
+      "nome": "Camisa SNES",
+      "preco": "60,00",
+      "section": "Diversos",
+      "id": "14",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/diversos/produtos-diversos-3.svg",
+      "nome": "Action Figure Sonic",
+      "preco": "60,00",
+      "section": "Diversos",
+      "id": "15",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/diversos/produtos-diversos-4.svg",
+      "nome": "Rádio/Alarme Rosa",
+      "preco": "60,00",
+      "section": "Diversos",
+      "id": "16",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/diversos/produtos-diversos-5.svg",
+      "nome": "Óculos Rift VR",
+      "preco": "60,00",
+      "section": "Diversos",
+      "id": "17",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "../img/diversos/produtos-diversos-6.svg",
+      "nome": "Boneco Pelúcia Pikachu",
+      "preco": "60,00",
+      "section": "Diversos",
+      "id": "18",
+      "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "https://images.kabum.com.br/produtos/fotos/229411/placa-de-video-galax-nvidia-geforce-rtx-3070-1-click-oc-8gb-gddr6-dlss-lhr-ray-tracing-preto-37nsl6md2kch_1646999561_original.jpg",
+      "nome": "RTX 3070",
+      "preco": "4639,00",
+      "section": "Hardware",
+      "description": "Placa de vídeo",
+      "id": "pnY-nUR"
+    },
+    {
+      "image": "https://img.terabyteshop.com.br/produto/g/processador-amd-ryzen-5-3600-36ghz-42ghz-turbo-6-core-12-thread-cooler-wraith-stealth-am4_143877.jpg",
+      "nome": "Ryzen 5 3600",
+      "preco": "979,00",
+      "section": "Processador",
+      "description": "Processador de 6 núcleos e 12 threads",
+      "id": "jQPI1gG"
+    }
+  ]
+}
